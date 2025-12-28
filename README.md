@@ -52,4 +52,14 @@ This dashboard provides an overview of sales order health. It tracks key metrics
 💰 Customer Receivables Dashboard (Separate Dashboard)
 The Customer Receivables Dashboard focuses on outstanding customer payments. It tracks overdue status, overdue amounts, and aging buckets such as 0–30, 31–60, and 61–90 days. This dashboard helps identify delayed payments, improve cash flow management, and streamline collection efforts by prioritizing overdue accounts.
 
+🎯 Overall Learning Outcome
+
+Overall, this project shows how an interactive sales analysis system helps management:
+Make data-driven decisions
+Improve sales performance and profitability
+Manage inventory efficiently
+Streamline order processing
+Improve cash flow through better receivables management
+It demonstrates the practical use of data analytics and business intelligence tools to support strategic, operational, and financial decision-making.
+
 
